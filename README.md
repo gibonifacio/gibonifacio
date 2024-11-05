@@ -6,6 +6,14 @@ Em 2023, entrei no projeto Apple Developer Academy | Mackenzie, onde desenvolvi 
 
 ---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gibonifacio&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gibonifacio&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gibonifacio&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
