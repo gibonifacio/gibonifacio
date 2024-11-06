@@ -50,7 +50,7 @@ Em 2023, entrei no projeto Apple Developer Academy | Mackenzie, onde desenvolvi 
 📂 O aplicativo permite também **organizar os documentos em coleções**, facilitando a visualização e o planejamento de peças dentro de um mesmo tema ou linha criativa.  <br> <br>
 📄 **Fichas técnicas** podem ser criados no Pashion para documentar todos os detalhes técnicos das peças, que são salvos no app para consulta e compartilhamento.  <br> <br>
 🖨️ O aplicativo também inclui recursos de exportação, permitindo que os usuários compartilhem suas e fichas técnicas com facilidade.  <br> <br>
-👩🏼‍💻 Foi desenvolvido em SwiftUI e UIKit, para iPad.  <br> <br>
+👩🏼‍💻 Para as telas de desenho e moodboard utilizamos UIKit, e para as navegações e telas restantes foi utilizado SwiftUI. <br> <br>
 [Link na App Store: Pashion - Creating Fashion from your Passion](https://apps.apple.com/br/app/pashion/id6737167821) <br>
 
 <img src="https://github.com/user-attachments/assets/394ad9d4-8766-4b4c-a28c-31d0a665c459" alt="TELA_INICIAL" width="300" style="margin-left: 20px;">
