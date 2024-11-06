@@ -3,6 +3,19 @@
 
 Em 2023, entrei no projeto Apple Developer Academy | Mackenzie, onde desenvolvi tanto habilidades sociais quanto técnicas. Participei de diversos projetos, que permitiram aplicar minha criatividade na resolução de problemas e encontrar soluções inovadoras. Tenho grande interesse em desenvolvimento iOS, e já conto com 4 aplicativos postados na AppStore. Todos os projetos foram desenvolvidos desde a ideação para resolver um problema real, até a programação utilizando Swift, SwiftUI e UIKit. 
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+</div>
+  ##
+<div>
+  <a href = "mailto:bonifaciocgiovanna@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/giovanna-bonifacio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
 
 ## Simplin
 🧩 O aplicativo **Simplin** foi desenvolvido para auxiliar a rotina de pessoas com **Transtorno do Espectro Autista (TEA)** por meio de uma agenda visual.  <br><br>
