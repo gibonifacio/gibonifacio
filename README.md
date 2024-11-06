@@ -40,7 +40,7 @@ Em 2023, entrei no projeto Apple Developer Academy | Mackenzie, onde desenvolvi 
 
 <img src="https://github.com/user-attachments/assets/0c06eb22-c1c8-43af-ad06-b716a592472a" alt="RECEITA" width="200" style="margin-left: 20px;">
 <img src="https://github.com/user-attachments/assets/1a3cce7b-a476-4738-b0f0-6a20b9e99a61" alt="LISTA_COMPRAS" width="200" style="margin-left: 20px;">
-<img src="https://github.com/user-attachments/assets/e4f3d2c2-60a3-4334-8aba-c6d504197ed1" alt="PLANEJAMENTO" width="600" style="margin-left: 20px;">
+<img src="https://github.com/user-attachments/assets/e4f3d2c2-60a3-4334-8aba-c6d504197ed1" alt="PLANEJAMENTO" width="300" style="margin-left: 20px;">
 
 ## Pashion
 
@@ -53,14 +53,28 @@ Em 2023, entrei no projeto Apple Developer Academy | Mackenzie, onde desenvolvi 
 👩🏼‍💻 Foi desenvolvido em SwiftUI e UIKit, para iPad.  <br> <br>
 [Link na App Store: Pashion - Creating Fashion from your Passion](https://apps.apple.com/br/app/pashion/id6737167821) <br>
 
-<img src="https://github.com/user-attachments/assets/394ad9d4-8766-4b4c-a28c-31d0a665c459" alt="TELA_INICIAL" width="500" style="margin-left: 20px;">
-<img src="https://github.com/user-attachments/assets/df99104b-d152-4903-ba15-0b17b4f83590" alt="DESENHO" width="500" style="margin-left: 20px;">
-<img src="https://github.com/user-attachments/assets/50b2ec55-dcf6-4528-bf4e-0a93661bd9f9" alt="CRIACAO_FICHA" width="500" style="margin-left: 20px;">
-<img src="https://github.com/user-attachments/assets/83ab88e8-8151-4924-8163-e6056ff050a8" alt="FICHA" width="500" style="margin-left: 20px;">
+<img src="https://github.com/user-attachments/assets/394ad9d4-8766-4b4c-a28c-31d0a665c459" alt="TELA_INICIAL" width="300" style="margin-left: 20px;">
+<img src="https://github.com/user-attachments/assets/df99104b-d152-4903-ba15-0b17b4f83590" alt="DESENHO" width="300" style="margin-left: 20px;">
+<img src="https://github.com/user-attachments/assets/50b2ec55-dcf6-4528-bf4e-0a93661bd9f9" alt="CRIACAO_FICHA" width="300" style="margin-left: 20px;">
+<img src="https://github.com/user-attachments/assets/83ab88e8-8151-4924-8163-e6056ff050a8" alt="FICHA" width="300" style="margin-left: 20px;">
+
+## Game of life 
+ 
+Alem dos aplicativos que desenvolvi, fiz esse projeto com base nas regras do Game of Life, que explora a evolução de padrões a partir de regras simples. <br> <br>
+No projeto, células são organizadas em uma grade bidimensional onde cada célula pode estar viva ou morta, evoluindo ao longo das gerações. <br> <br> 
+As regras implementadas incluem: <br>
+- Superpopulação: células vivas com mais de três vizinhos vivos morrem.
+- Subpopulação: células vivas com menos de dois vizinhos vivos morrem.
+- Continuação da vida: células vivas com dois ou três vizinhos vivos continuam vivas.
+- Reprodução: células mortas com exatamente três vizinhos vivos tornam-se vivas. <br>
+
+
+  
 
 
 
-
+<img src="https://github.com/user-attachments/assets/1a48d597-baa9-403b-b761-51e18d629db9" alt="GAME_OF_LIFE" width="200">
+<img src="https://github.com/user-attachments/assets/cbb7ffce-0191-41b2-a161-88e6d09370a4" alt="GAME_OF_LIFE" width="200">
 
 
 <!-- Imagem 2 -->
