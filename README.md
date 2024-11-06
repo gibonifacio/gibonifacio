@@ -1,4 +1,4 @@
-
+# 👩🏼‍💻 Giovanna Bonifacio
 **`iOS Developer`** 
 
 Em 2023, entrei no projeto Apple Developer Academy | Mackenzie, onde desenvolvi tanto habilidades sociais quanto técnicas. Participei de diversos projetos, que permitiram aplicar minha criatividade na resolução de problemas e encontrar soluções inovadoras. Tenho grande interesse em desenvolvimento iOS, e já conto com 4 aplicativos postados na AppStore. Todos os projetos foram desenvolvidos desde a ideação para resolver um problema real, até a programação utilizando Swift, SwiftUI e UIKit. 
